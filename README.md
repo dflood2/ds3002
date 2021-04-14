@@ -10,7 +10,7 @@ Use the package manager pip to install pandas:
 pip install pandas
 ```
 
-## Contents
+## Contents of Project
 
 The files above consist of the Nashville housing data set from kaggle, the python script used in the ETL pipeline, the requirements.txt and the dockerfile. Simply run the housing_ETL.py script and two new files, a cleaned csv and json file, will be saved to the directory. Details of the data cleaning steps are described below, including an addional column for further analysis.
 
