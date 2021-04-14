@@ -1,6 +1,6 @@
-# Project 1: Nashville Housing ETL Data Processor
+# Project 1: ETL Data Processor 
 
-The Nashville housing data set is used in this project is from kaggle and can be found: https://www.kaggle.com/tmthyjames/nashville-housing-data. Almost half of the observations do not list key home features such as total value of home or any other features and were therefore removed in the data cleaning process.
+The Nashville housing data set used in this project is from kaggle and can be found: https://www.kaggle.com/tmthyjames/nashville-housing-data. Almost half of the observations do not list key home features such as total value of home or any other features and were therefore removed in the data cleaning process.
 
 ## Installation
 
@@ -12,7 +12,7 @@ pip install pandas
 
 ## Contents
 
-The files above consists of the Nashville housing data set from kaggle, the python script used in the ETL pipeline, the requirements.txt and the dockerfile. Simply run the housing_ETL.py script and two new files, a cleaned csv and json file, will be saved to the directory. Details of the data cleaning steps are described below, including an addional column for further analysis.
+The files above consist of the Nashville housing data set from kaggle, the python script used in the ETL pipeline, the requirements.txt and the dockerfile. Simply run the housing_ETL.py script and two new files, a cleaned csv and json file, will be saved to the directory. Details of the data cleaning steps are described below, including an addional column for further analysis.
 
 ## Brief Summary of Data Ingestion
 
