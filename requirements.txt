@@ -1,6 +1,4 @@
-pandas
-csv
-json
-
-
-
+pandas==0.25.1
+unicodecsv==0.14.1
+json5==0.8.5
+jsonschema==3.0.2
