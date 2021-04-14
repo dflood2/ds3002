@@ -2,7 +2,7 @@ FROM python:3.8.0-buster
 
 # Make directory for pipeline
 WORKDIR /usr/local/ds_project1
-COPY ds_project1 ./
+COPY ./ ds_project1 
 
 #Install dependencies
 COPY requirements.txt requirements.txt
